@@ -98,8 +98,8 @@ const Reviews = () => {
   }, []);
 
   return (
-    <div className='p-8 '>
-      <h1 className="text-center font-semibold text-3xl lg:text-5xl text-white mb-10 mt-10">What our patients tell about us?</h1>
+    <div className='p-8 ' id="reviews">
+      <h1 className="text-center font-semibold text-3xl lg:text-5xl text-white mb-10 mt-10">What do our patients say about us?</h1>
       <div className="flex items-center justify-center">
         <div className="max-w-7xl mx-auto">
           <div className="flex items-center justify-center space-x-4 py-10">

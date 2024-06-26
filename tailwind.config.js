@@ -11,6 +11,7 @@ export default {
       },
       colors:{
         primary: '#57CEBB',
+        secondary:"#4EA76D",
         footer: "#444444"
       },
       fontFamily: {
