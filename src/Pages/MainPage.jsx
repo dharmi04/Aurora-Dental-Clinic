@@ -3,6 +3,7 @@ import Navbar from '../Components/Navbar'
 import HeroSection from '../Components/HeroSection'
 import Footer from '../Components/Footer'
 import DentalServices from '../Components/DentalServices'
+import Reviews from '../Components/Reviews'
 
 const MainPage = () => {
   return (
@@ -11,6 +12,7 @@ const MainPage = () => {
       <Navbar />
       <HeroSection />
       <DentalServices />
+      <Reviews />
       
 
     </div>
